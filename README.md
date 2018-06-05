@@ -25,9 +25,10 @@ Creative coder, security enthousiast and full-stack web developer. Graduated fro
 |   ---   |   ---   |   ---   |
 | Tape  | Git | TDD |
 | Travis CI | Github  | Agile (Scrum) |
-| | npm   | Heroku  | SonicPi |
+| Tmux | npm   | Heroku  | 
 | | yarn  | Processing  |
-| | | Arduino |
+| | Vim | Arduino |
+| | | SonicPi |
 | | | OSCP Certification in progress  |
 
 
